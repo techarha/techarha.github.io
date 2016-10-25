@@ -15,7 +15,7 @@ keep_files:
 
 # Site settings
 title: Techarha
-subtitle: "Ingesting and Inventing Data, enabling wise decisions"
+subtitle: "Ingesting and Inventing Data, creating Data Wisdom"
 # Base URL of site. It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
